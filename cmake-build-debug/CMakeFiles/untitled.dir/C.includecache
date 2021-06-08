@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zver/Desktop/Mephi stuff/lr1/dims.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lr1/functions.c
+stdio.h
+-
+malloc.h
+-
+stdlib.h
+-
+dims.h
+C:/Users/Zver/Desktop/Mephi stuff/lr1/dims.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lr1/main.c
+stdio.h
+-
+dims.h
+C:/Users/Zver/Desktop/Mephi stuff/lr1/dims.h
+functions.c
+C:/Users/Zver/Desktop/Mephi stuff/lr1/functions.c
+
